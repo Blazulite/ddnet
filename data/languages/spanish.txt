@@ -485,7 +485,7 @@ Your skin
 == Tu skin
 
 Reset to defaults
-== Restablecer valores predeterminados
+== Restablecer por defecto
 
 Lht.
 == Lum.
@@ -551,7 +551,7 @@ Welcome to DDNet
 == Bienvenido a DDNet
 
 DDraceNetwork is a cooperative online game where the goal is for you and your group of tees to reach the finish line of the map. As a newcomer you should start on Novice servers, which host the easiest maps. Consider the ping to choose a server close to you.
-== DDraceNetwork es un juego cooperativo en línea cuyo objetivo es que tú y tu grupo de tees lleguéis a la meta del mapa. Como jugador nuevo, deberías empezar en los servidores Novice, que albergan los mapas más fáciles. Ten en cuenta el ping para elegir un servidor cercano a tí.
+== DDraceNetwork es un juego cooperativo en línea cuyo objetivo es que tú y tu grupo de tees lleguéis a la meta del mapa. Como nuevo jugador, deberías empezar en los servidores Novice, que albergan los mapas más fáciles. Ten en cuenta el ping para elegir un servidor cercano a tí.
 
 It's recommended that you check the settings to adjust them to your liking before joining a server.
 == Se recomienda que compruebes la configuración para ajustarla a tu gusto antes de unirte a un servidor.
@@ -1016,7 +1016,7 @@ Run server
 == Iniciar servidor
 
 Server executable not found, can't run server
-== No se encuentra el ejecutable del servidor, no se puede ejecutar el servidor
+== No se pudo encontrar el ejecutable del servidor, no se pudo iniciar
 
 Editor
 == Editor
@@ -1146,7 +1146,7 @@ Allows maps to render with more detail
 == Permite renderizar mapas con mayor detalle
 
 When you cross the start line, show a ghost tee replicating the movements of your best time
-== Cuando cruzas la línea de inicio, mostrar un tee fantasma replicando los movimientos de tu mejor tiempo
+== Cuando cruzas la línea de inicio, aparece un tee fantasma replicando los movimientos de tu mejor tiempo
 
 Opacity
 == Opacidad
@@ -1706,7 +1706,7 @@ Following
 == Siguiendo
 
 Press a key…
-== pulsa una tecla…
+== Pulsa una tecla…
 
 Are you sure that you want to restart?
 == ¿Estás seguro de que quieres reiniciar?
@@ -2202,7 +2202,7 @@ Dragger Inner Color
 == Color interno del arrastrador
 
 Press Ctrl+Shift+G to disable debug graphs.
-== pulsa Ctrl+Shift+G para deshabilitar las gráficas de debug.
+== Pulsa Ctrl+Shift+G para deshabilitar las gráficas de debug.
 
 [Spectating]
 Following %d: %s
